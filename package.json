@@ -20,10 +20,10 @@
     "@opam/mccs": "*"
   },
   "peerDependencies": {
-    "ocaml": "~4.6.0"
+    "ocaml": "bryphe/ocaml#b494c35a0"
   },
   "devDependencies": {
     "@esy-ocaml/merlin": "*",
-    "ocaml": "~4.6.0"
+    "ocaml": "bryphe/ocaml#b494c35a0"
   }
 }
